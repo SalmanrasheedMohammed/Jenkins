@@ -1,7 +1,8 @@
-What is Jenkins?
-Jenkins is an open-source automation server used for continuous integration and continuous delivery (CI/CD) of software projects. It automates the process of building, testing, and deploying applications.
-Explain the difference between Jenkins and Hudson.
-Jenkins was forked from Hudson due to disagreements within the Hudson community. Since then, Jenkins has evolved with a more active and diverse community, while Hudson development has stagnated.
+* What is Jenkins?
+** Jenkins is an open-source automation server used for continuous integration and continuous delivery (CI/CD) of software projects. It automates the process of building, testing, and deploying applications.
+
+* Explain the difference between Jenkins and Hudson.
+** Jenkins was forked from Hudson due to disagreements within the Hudson community. Since then, Jenkins has evolved with a more active and diverse community, while Hudson development has stagnated.
 How do you install Jenkins?
 Jenkins can be installed on various operating systems, including Windows, macOS, and Linux. It can be installed through native package managers, Docker, or by downloading and running the Jenkins WAR file.
 What is a Jenkins Pipeline?
